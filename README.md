@@ -1,1 +1,4 @@
 # BitcoinTradingBot
+
+Python=3.7.7
+requests==2.25.1
